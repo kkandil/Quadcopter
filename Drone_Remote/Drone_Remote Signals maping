@@ -1,0 +1,48 @@
+RF Transiver
+V+		3.3V Direct
+MOSI	PA7
+MISO	PA6
+SCK		PA5
+CE		PB10
+CSN		PA4
+
+Debugger
+RX		PA9
+TX		PA10
+GND White Black
+
+LCD
+SCK		PB6		Green
+SDA		PB7  	Red
+
+Encoder
+SW		PB12	Green
+DT		PB13	Red	
+CLK		PB14	Black
+
+Left Joystick
+Rx		PA3
+Ry		PA2
+SW		PB15
+
+Right Joystick
+Rx		PA1
+Ry		PA0
+SW		PA8
+
+Left Pot
+R		PB1
+
+Right Pot
+R		PB0
+
+LCD Switchs
+Up		PA11
+Dn		PA12
+Sel		PA15
+
+Trigger Switchs
+Lft		PB3
+Rgt		PB4
+Front_L	PB5
+Front_R	PB8
